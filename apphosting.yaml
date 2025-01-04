@@ -1,17 +1,17 @@
 env:
   # Set this with firebase apphosting:secrets:set
   - variable: GEMINI_API_KEY
-    secret: gemini-api-key
+    secret: "AIzaSyAxxRsZtlNhflETU3BPAKd5sXkO3VDSc6I" 
   # Get these values from the Firebase console
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: TODO
+    value:"AIzaSyBOjidDIFszdimMT0ysMXB0eWoEZv0Jxxg" 
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: TODO
+    value: "codalabeats.firebaseapp.com"
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: TODO
+    value: "codalabeats"
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: TODO
+    value: "codalabeats.firebasestorage.app"
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: TODO
+    value: "224826272878"
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: TODO
+    value: "1:224826272878:web:bb37b36666c8bddbc94a7f"
