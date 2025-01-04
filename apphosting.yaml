@@ -1,7 +1,7 @@
 env:
   # Set this with firebase apphosting:secrets:set
-  - variable: GEMINI_API_KEY
-    secret: "AIzaSyAxxRsZtlNhflETU3BPAKd5sXkO3VDSc6I" 
+  #- variable: GEMINI_API_KEY
+  #  secret: "AIzaSyAxxRsZtlNhflETU3BPAKd5sXkO3VDSc6I" 
   # Get these values from the Firebase console
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
     value: "AIzaSyBOjidDIFszdimMT0ysMXB0eWoEZv0Jxxg" 
